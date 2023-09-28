@@ -1,6 +1,6 @@
 																														 
  
-  <h1>👋 Hi, I’m Kahina MOUELOUEL - Application Developer </h1>
+  <h1>👋 Hi, I’m Kahina MOUELOUEL </h1>
  
  Welcome to my profile! I am an experienced Application Developer with a strong background in Computer Science. I have a proven track record of successfully upgrading web applications, implementing essential features, and improving user engagement. My passion for technology and problem-solving drives me to deliver high-quality solutions.
 
